@@ -1,6 +1,7 @@
 # trabalho-colaborativo-senai
 # trabalho em dupla
 # este trabalho será colaborativo
+
 # Desenvolvendo o código
 # Escreval("Bem vindo ao Banco do Brasil")
 # Escreval("Opções:")
@@ -11,3 +12,7 @@
 # escreval()
 # adicionei contribuições ao arquivo funcionalidade1.txt
 # precisamos verificar a possibilidade de merge de ambas as contribuições
+
+# adiiconei contribuições ao trabalho Versao final
+# finalização de projeto com front end
+

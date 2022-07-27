@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # Treinando o merge
 # Treinando solução de conflitos
+=======
+criar um código para login
+>>>>>>> origin/versaoCarolina
