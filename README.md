@@ -9,3 +9,5 @@
 # escreval("(c) Fazer um depósito")
 # escreval("(d) Sair")
 # escreval()
+# adicionei contribuições ao arquivo funcionalidade1.txt
+# precisamos verificar a possibilidade de merge de ambas as contribuições
