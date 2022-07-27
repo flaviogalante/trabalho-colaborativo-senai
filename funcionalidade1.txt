@@ -1,0 +1,2 @@
+# Treinando o merge
+# Treinando solução de conflitos
